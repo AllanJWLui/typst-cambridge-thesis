@@ -1,5 +1,4 @@
 # Typst thesis template for University of Cambridge
-===================================================
 
 Based on https://github.com/jeffa5/typst-cambridge/ and modified to align with the LaTeX template for Cambridge University Engineering Department (https://github.com/kks32/phd-thesis-template)
 
